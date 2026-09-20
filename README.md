@@ -26,6 +26,7 @@ credits:
 . battery holder model by PENNEL Patrice on grabcad
 . servo motor model by Oleksandr Velykyi on grabcad
 . wheel model by Bassem Ahmed on grabcad
+
 # BOM
 
 # How to build:
