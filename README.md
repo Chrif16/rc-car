@@ -1,7 +1,9 @@
+
 # rc-kart
 a remote controlled mini car that takes inputs from a wiimote and steers when you tilt it sideways (like in mario kart) it uses one dc motor and one servo motor and is mostly 3d printable.
 i got the inspiration from a core childhood memory of a show on national geographic where a kid and and an old guy made a go kart that was controlled with a wii remote and that was the moment i realised that i could use the remote for more than games.
 (i started this project a year ago, gave up on it then decided to redo it again a month ago)
+<img width="3508" height="4960" alt="zine car" src="https://github.com/user-attachments/assets/5a5aa5ad-0e86-4efb-9314-1a2e455268d7" />
 <img width="1920" height="632" alt="b2fa0289-db95-4d54-a6ec-f4c8e6ea8719" src="https://github.com/user-attachments/assets/96d1ee6d-0b9e-46d7-b528-bc9827f145cc" />
 <img width="1920" height="632" alt="c145f69d-9ed7-45b9-a5ac-478f1d24c18c" src="https://github.com/user-attachments/assets/fa2d7385-4862-44aa-8ff4-4e0f3627f170" />
 
@@ -51,3 +53,4 @@ credits:
 For screws and similar items, it is recommended to find the cheapest in your location. first 3d print all the parts in the cad folder except for the assemblies(car , chassis) then press fit the ball bearings in their spots on the assembly, then press fit and screw the chassis parts in place, then screw the components in place, then screw the gears in place, then run a metal wire through the hole above the servo motor and into the servo, then solder all the components together, then press fit all the wheels in place, then put the magnets on the pillars on the chassis and on the shell, then place the shell of the car on top connected by the magnets
 # Zine
 
+<img width="3508" height="4960" alt="zine car" src="https://github.com/user-attachments/assets/5a5aa5ad-0e86-4efb-9314-1a2e455268d7" />
