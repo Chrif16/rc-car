@@ -42,7 +42,6 @@ credits:
 |  | total |  | >41.505$ |
 # How to build:
 
-For screws and similar items, it is recommended to find the cheapest in your location. first 3d print all the parts in the cad folder except for the assemblies(car , chassis) then press fit the ball bearings in their spots on the assembly, then put the turning cog between the sliding parts, then screw the knob and the stopper on the turning part, then screw in place the servo and the arduino and the ultrasonic sensor then press fit the lithium battery and the charging module on the bottom part, then solder the wires between the components and place the top part on the bottom part in a way that makes it so that the servo fits into place
-
+For screws and similar items, it is recommended to find the cheapest in your location. first 3d print all the parts in the cad folder except for the assemblies(car , chassis) then press fit the ball bearings in their spots on the assembly, then press fit and screw the chassis parts in place, then screw the components in place, then screw the gears in place, then run a metal wire through the hole above the servo motor and into the servo, then solder all the components together, then press fit all the wheels in place, then put the magnets on the pillars on the chassis and on the shell, then place the shell of the car on top connected by the magnets
 # Zine
 
