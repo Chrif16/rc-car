@@ -20,6 +20,8 @@ the micro controller used is an esp32 and the project moves with a single motor 
 <img width="935" height="400" alt="Capture d&#39;écran 2026-09-13 123847" src="https://github.com/user-attachments/assets/81d87af0-ffe5-4043-808f-adf4408b67f2" />
 <img width="996" height="402" alt="Capture d&#39;écran 2026-09-13 123840" src="https://github.com/user-attachments/assets/8cd2291b-1847-4a29-b1ea-47531c9591bd" />
 <img width="1086" height="577" alt="Capture d&#39;écran 2026-09-13 123235" src="https://github.com/user-attachments/assets/acd975fb-05b1-42cc-b814-821c9a325cfa" />
+<img width="836" height="622" alt="Capture d&#39;écran 2026-09-11 162325" src="https://github.com/user-attachments/assets/7e94399b-7811-4979-8818-96c5e4383c06" />
+
 # BOM
 
 # How to build:
