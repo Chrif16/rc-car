@@ -2,6 +2,9 @@
 a remote controlled mini car that takes inputs from a wiimote and steers when you tilt it sideways (like in mario kart) it uses one dc motor and one servo motor and is mostly 3d printable.
 i got the inspiration from a core childhood memory of a show on national geographic where a kid and and an old guy made a go kart that was controlled with a wii remote and that was the moment i realised that i could use the remote for more than games.
 (i started this project a year ago, gave up on it then decided to redo it again a month ago)
+<img width="1920" height="632" alt="b2fa0289-db95-4d54-a6ec-f4c8e6ea8719" src="https://github.com/user-attachments/assets/96d1ee6d-0b9e-46d7-b528-bc9827f145cc" />
+<img width="1920" height="632" alt="c145f69d-9ed7-45b9-a5ac-478f1d24c18c" src="https://github.com/user-attachments/assets/fa2d7385-4862-44aa-8ff4-4e0f3627f170" />
+
 # First concept
 <img width="1500" height="2000" alt="image" src="https://github.com/user-attachments/assets/43548e9a-a431-4a41-8625-1d150965f231" />
 <img width="774" height="612" alt="image" src="https://github.com/user-attachments/assets/4d736b38-6aec-46dc-b5b1-633af5fafa5a" />
