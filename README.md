@@ -24,6 +24,8 @@ the micro controller used is an esp32 and the project moves with a single motor 
 <img width="996" height="402" alt="Capture d&#39;écran 2026-09-13 123840" src="https://github.com/user-attachments/assets/8cd2291b-1847-4a29-b1ea-47531c9591bd" />
 <img width="1086" height="577" alt="Capture d&#39;écran 2026-09-13 123235" src="https://github.com/user-attachments/assets/acd975fb-05b1-42cc-b814-821c9a325cfa" />
 <img width="836" height="622" alt="Capture d&#39;écran 2026-09-11 162325" src="https://github.com/user-attachments/assets/7e94399b-7811-4979-8818-96c5e4383c06" />
+<img width="1045" height="680" alt="Capture d&#39;écran 2026-09-20 165824" src="https://github.com/user-attachments/assets/38b1c6c1-7857-4f3c-90c9-92ac086b49e7" />
+
 credits:
 . 2 relay module model by Mike Scalora on grabcad
 . battery holder model by PENNEL Patrice on grabcad
