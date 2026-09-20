@@ -11,7 +11,7 @@ steering:
 
 
 # Schematics
-the micro controller used is an esp32 and the project moves with a single motor and the servo motor controls the steeringand the batteries powers everything 
+the micro controller used is an esp32 and the project moves with a single motor and the servo motor controls the steeringand the batteries power everything 
 <img width="1202" height="792" alt="Capture d&#39;écran 2026-09-20 152824" src="https://github.com/user-attachments/assets/c0089311-f8a8-4e24-8620-5350f96c8885" />
 
 
